@@ -1,8 +1,8 @@
 {
   "name": "@demilade/minimag",
   "version": "1.0.0",
-  "description": "Tiny JS library for making dom elements magnetic to the cursor",
-  "main": "index.js",
+  "description": "Make dom elements react magnetically to the cursor",
+  "main": "minimag.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
